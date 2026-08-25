@@ -1,0 +1,22 @@
+header {
+    background-color: #183C63;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+main {
+    background-color: #FFFFFF;
+    color: #183C63;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+article {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.artigo-autor {
+    font-weight: bold;
+}
